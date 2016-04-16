@@ -1,6 +1,6 @@
 # Employee Data
 
-Hope this helps the relational DB afficionados !
+Hope this helps relational DB afficionados !
 
 ## Steps
 To import into postgres DB, execute in shell
