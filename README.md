@@ -9,4 +9,4 @@ To import into postgres DB, execute in shell
     
 To import into MySQL DB, execute at mysql prompt
 
-     source /imp/workspace/github/emp-database/emp-db.mysql.sql
+     source <folder>/emp-db.mysql.sql
